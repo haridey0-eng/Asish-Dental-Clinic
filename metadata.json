@@ -1,0 +1,6 @@
+{
+  "name": "Asish Dental Clinic",
+  "description": "Premium, world-class dental clinic website for Asish Dental Clinic (आशीष दंत चिकित्सा क्लिनिक) in Dhanbad, Jharkhand. Offering painless RCT, dental implants, invisible aligners, smile makeovers, and family dental care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
